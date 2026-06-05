@@ -2,6 +2,7 @@ package school.mjc.stage0.conditions.task1;
 
 import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
+import school.mjc.stage0.conditions.task1.excluded.IntegerComparison;
 
 import java.io.IOException;
 import java.nio.file.Files;
